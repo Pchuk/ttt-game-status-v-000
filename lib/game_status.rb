@@ -16,9 +16,8 @@ WIN_COMBINATIONS = [
 
 def won?(board)
 WIN_COMBINATIONS.select do |win|
-win == 
 
-end
+
 end
 #if position_taken == true, then false (?)
   #need if win put WIN_COMBINATIONS array
